@@ -1,0 +1,2 @@
+# Exceptions
+Exceptions em Python.
